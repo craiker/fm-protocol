@@ -5,5 +5,4 @@ A platform for Fund Managers to create and manage on-chain regulation-compliant 
 ## Prototype Only
 Please note this code is a proof of concept.
 
-For more information visit 👇🏻:
-https://fmprotocol.slite.page/p/QR-_OKIsxgKXxS/Fume-Protocol
+For more information visit 👉: https://fmprotocol.slite.page/p/QR-_OKIsxgKXxS/Fume-Protocol
